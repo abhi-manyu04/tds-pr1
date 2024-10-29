@@ -1,4 +1,4 @@
-login,name,company,location,email,hirable,bio,public_repos,followers,following,created_at
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
 getify,Kyle Simpson,GETIFY SOLUTIONS,"Austin, TX",getify@gmail.com,True,Kyle Simpson is a Human-Centric Technologist. He's fighting for the people behind the pixels.,69,43930,2,2009-11-08T06:56:21Z
 benawad,Ben Awad,VOIDPET,"Austin, TX",,,"React.js, Typescript, Node.js, PostgreSQL",254,29016,4,2014-06-12T15:55:20Z
 steveklabnik,Steve Klabnik,OXIDECOMPUTER,"Austin, TX",steve@steveklabnik.com,,All i'm trying to do is enjoy every day to the fullest with my Pokmon.,831,6803,206,2008-10-06T17:40:28Z
