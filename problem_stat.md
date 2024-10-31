@@ -3,7 +3,7 @@
 - users.csv. See below. Use the SAME values as in the API response. For booleans, use true and false and empty strings for null.
 - repositories.csv. See below. Use the SAME values as in the API response. For booleans, use true and false and empty strings for null.
 - README.md. See below.
-Optional but recommended: your code and/or spreadsheet, in whichever language you analyzed the data in.
+- Optional but recommended: your code and/or spreadsheet, in whichever language you analyzed the data in.
 
 ### users.csv has following information about each user in Austin with over 100 followers, with fields:
 
