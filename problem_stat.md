@@ -37,7 +37,7 @@
 ### README.md must begin with 3 bullet points. Each bullet must be one sentence no more than 50 words.
 
 - An explanation of how you scraped the data
-- The most interesting and surprising fact you found after analyzing the the data
+- The most interesting and surprising fact you found after analyzing the data
 - An actionable recommendation for developers based on your analysis
 
 Your peers will rank your README.md subjectively. You can add anything else you like in the README.md but your peers will only focus on the 3 bullet points.

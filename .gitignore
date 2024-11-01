@@ -3,3 +3,5 @@ graphql.py
 pr.py
 test.ipynb
 sec.py
+optional_analysis.ipynb
+analysis.ipynb
